@@ -1,0 +1,6 @@
+﻿  RedBlackTree.cpp
+C:\Users\kbhat\source\repos\RedBlackTree\RedBlackTree\RedBlackTree.cpp(239,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kbhat\source\repos\RedBlackTree\RedBlackTree\RedBlackTree.cpp(247,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kbhat\source\repos\RedBlackTree\RedBlackTree\RedBlackTree.cpp(253,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kbhat\source\repos\RedBlackTree\RedBlackTree\RedBlackTree.cpp(273,18): warning C4101: 'bRoot': unreferenced local variable
+  RedBlackTree.vcxproj -> C:\Users\kbhat\source\repos\RedBlackTree\x64\Debug\RedBlackTree.exe
